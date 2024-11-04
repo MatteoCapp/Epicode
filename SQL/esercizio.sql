@@ -1,0 +1,1 @@
+SELECT * FROM biblioteca_lezione_3004.autori;
